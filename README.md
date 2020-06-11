@@ -1,13 +1,6 @@
 # Free for Students
 This is a full list of services, software and tools that are available for students. This also includes the best freebies and discounts available, saving money and time. If you think something is missing contact us!
 
-# Table of Contents
-
-- [Technology](#technology)
-
-
-
-## Technology
 
 - [Amazon Prime Student](https://www.amazon.co.uk/joinstudent) - Super-fast shipping, exclusive discounts and free memberships to Prime video, Prime Music and Twitch Prime.
 - [JetBrains](https://www.jetbrains.com/student/) - Professional Developer Software, Free For 12 months.
@@ -33,3 +26,4 @@ This is a full list of services, software and tools that are available for stude
 - [Logitech](https://logitech-uk.7z5k.net/Bab2x) - Logitech (25% Discount), Discounted for Current Students.
 - [Figma](https://www.figma.com/education/) - Digital Design Software, Free for Current Students.
 - [Tower](https://www.git-tower.com/students/) - Desktop Git Client, Free for Current Students.
+- [Azendoo](https://blog.azendoo.com/azendoo-for-education-special-offers/) - Work Management Software, Free for 12 Months.
