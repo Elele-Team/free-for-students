@@ -6,6 +6,7 @@ This is a full list of services, software and tools that are available for stude
 * [Electronic Devices](#Electronic-Devices)
 * [Music](#Music)
 * [Shipping](#Shipping)
+* [Discounts](#Discounts)
 
 # Tech
 This includes all software and tools and more tech related freebies.
@@ -266,3 +267,12 @@ This includes all software and tools and more tech related freebies.
 * [Amtrak](http://www.amtrak.com/student-discount) - 10% off on train and bus service
 * [Budget Truck Rental](https://www.budgettruck.com/) - Up to 20% off truck rental.
 * [METROLINK](http://www.metrolinktrains.com/ticketspricing/page/title/discounts) - 25% off Monthly Pass, 7-Day Pass, One-Way and Round-Trip tickets.
+
+# Discounts
+
+* [Surfshark VPN](https://order.surfshark.com/?coupon=surfsharkdeal) - 81% Discount for Surfshark VPN. (24 months)
+* [1&1 Hosting](https://www.ionos.co.uk/hosting/web-hosting?ac=OM.UK.UKf11K357007T7073a&kwk=566289591) - 90% Discount for Website hosting (6 months)
+* [Logitech](https://buy.logitech.com/store?Action=custom&SiteID=logieu&pbPage=student-discount&irclickid=R7sRP3QT8xyLThr0M-0V7wD0UkBzZcXFm2fZ1s0&irgwc=1&utm_medium=affiliate&utm_source=Impact&utm_campaign=2032346-Online%20Tracking%20Link) - 25% Disccount for Current Students.
+* [Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) - 60% Discount for Creative Cloud for 12 months.
+* [Sketch](https://www.sketch.com/store/edu/) - Digital Design Software (50% Discount)
+* [Squarespace](https://www.squarespace.com/students/) - Website Builder (50% Discount) for 12 months.
