@@ -1,6 +1,8 @@
 # Free for Students
 This is a full list of services, software and tools that are available for students. This also includes the best freebies and discounts available, saving money and time. If you think something is missing contact us!
 
+# moved to https://docs.elele.team
+
 # Table Of Contents
 * [Technology](#Tech)
 * [Electronic Devices](#Electronic-Devices)
